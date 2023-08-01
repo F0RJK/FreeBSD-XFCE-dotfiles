@@ -24,4 +24,4 @@ Nothing much here but I hope you enjoy your stay.
 
 ----
 
-*Made possible with the help of [caledumb's](https://github.com/calesdumb) dotfiles.*
+*Made possible with the help of [caledumb's](https://github.com/calesdumb/dotfiles) dotfiles.*
