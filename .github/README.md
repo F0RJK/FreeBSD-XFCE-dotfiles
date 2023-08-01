@@ -1,8 +1,7 @@
-# My XFCE Configs
+# Hello there!
 <img align="right" width="50%" src="./desktop_screenshot.png">
 <img align="right" width="50%" src="./rofi_screenshot.png">
-
-Made possible with the help of [caledumb's](https://github.com/calesdumb) dotfiles.
+Nothing much here but I hope you get something out of it.
 
 ## What I use
 - [polybar](https://github.com/polybar/polybar/) (System Bar)
@@ -23,16 +22,6 @@ Made possible with the help of [caledumb's](https://github.com/calesdumb) dotfil
 ## What I Don't Use
 - login / display manager (only startx)
 
-## Other packages
-- nerd-fonts
-- noto
-- sysutils/py-ranger
-- htop
-- gdu
-- pfetch
-- cbonsai
-- tty-clock
-- cowsay
-- starfetch
-- cava
+----
 
+*Made possible with the help of [caledumb's](https://github.com/calesdumb) dotfiles.*
