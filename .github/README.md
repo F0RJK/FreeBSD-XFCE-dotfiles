@@ -1,7 +1,7 @@
 # Hello there!
 <img align="right" width="50%" src="./desktop_screenshot.png">
 <img align="right" width="50%" src="./rofi_screenshot.png">
-Nothing much here but I hope you get something out of it.
+Nothing much here but I hope you enjoy your stay.
 
 ## What I use
 - [polybar](https://github.com/polybar/polybar/) (System Bar)
