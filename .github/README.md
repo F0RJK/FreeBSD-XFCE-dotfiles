@@ -13,7 +13,7 @@ Made possible with the help of [caledumb's](https://github.com/calesdumb) dotfil
 - lollypop (Music Player)
 - firefox (Web Browsing)
 - htop (System Monitoring)
-- micro (Text Editor)
+- neovim (Text Editor)
 - pulseaudio (Audio)
 - zsh (User Shell)
 - [white-sur](https://www.gnome-look.org/p/1403328/) (gtk theme)
