@@ -1,0 +1,97 @@
+#
+#  ┏┓┓     •          ┓
+#  ┣┫┃┏┓┏┏┓┓╋╋┓┏ ┓┏┏┳┓┃
+#  ┛┗┗┗┻┗┛ ┗┗┗┗┫•┗┫┛┗┗┗
+#              ┛  ┛    
+
+## Terminal Window Settings
+window:
+  dimensions:
+    columns: 130
+    lines: 28
+
+  padding:
+    x: 19
+    y: 19
+
+  class:
+    instance: Alacritty
+    general: Alacritty
+
+  decorations: none
+  startup_mode: Windowed
+  dynamic_title: true
+
+  ## Scrolling
+  history: 1000
+  multiplier: 3
+
+  ## Background Opacity
+  opacity: 0.7
+
+
+## Cursor
+cursor:
+  style:
+    shape: Underline
+    blinking: On
+
+  unfocused_hollow: true
+
+
+## Live config reload
+live_config_reload: true
+
+
+## Shell
+shell:
+  program: /usr/local/bin/zsh
+  args:
+    - --login
+
+## Fonts
+font:
+    normal:
+        family: JetBrainsMono Nerd Font
+        style: medium
+
+    bold:
+        family: JetBrainsMono Nerd Font
+        style: bold
+
+    italic:
+        family: JetBrainsMono Nerd Font
+        style: MediumItalic
+
+    bold_italic:
+        family: JetBrainsMono Nerd Font
+        style: BoldItalic
+
+    size: 9
+
+draw_bold_text_with_bright_colors: true
+
+
+## Colors
+colors:
+    primary:
+        background: "#151515"
+        foreground: "#a1b0b8"
+    normal:
+        black: "#252525"
+        red: "#832e83"
+        green: "#a63ca6"
+        yellow: "#d349d3"
+        blue: "#fc59fc"
+        magenta: "#df93df"
+        cyan: "#ba85ba"
+        white: "#f5f5f5"
+    bright:
+        black: "#252525"
+        red: "#832e83"
+        green: "#a63ca6"
+        yellow: "#d349d3"
+        blue: "#fc59fc"
+        magenta: "#df93df"
+        cyan: "#ba85ba"
+        white: "#f5f5f5"
