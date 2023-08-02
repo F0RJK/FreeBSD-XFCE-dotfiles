@@ -1,14 +1,15 @@
+<!--
 ![Desktop Screenshot](freebsd_screenshot.png)
 ---
 ![Arch Desktop Screenshot](arch_screenshot.png)
 ---
-
-<!-- 
-<img align="right" width="50%" src="./arch_screenshot.png">
-<img align="right" width="50%" src="./rofi_screenshot.png"> 
 -->
 
-## What I use
+<img align="right" width="60%" src="./freebsd_screenshot.png">
+<img align="right" width="60%" src="./rofi_screenshot.png"> 
+
+
+# What I Use
 - [polybar](https://github.com/polybar/polybar/) (System Bar)
 - [rofi](https://github.com/davatorium/rofi) (Program Launcher)
 - [alacritty](https://github.com/alacritty/alacritty) (Terminal)
