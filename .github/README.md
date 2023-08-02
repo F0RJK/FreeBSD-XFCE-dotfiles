@@ -1,13 +1,7 @@
 <!--
-![Desktop Screenshot](freebsd_screenshot.png)
----
-![Arch Desktop Screenshot](arch_screenshot.png)
----
--->
-
 <img align="right" width="60%" src="./freebsd_screenshot.png">
 <img align="right" width="60%" src="./rofi_screenshot.png"> 
-
+-->
 
 ## What I Use
 - [polybar](https://github.com/polybar/polybar/) (System Bar)
@@ -27,6 +21,10 @@
 
 ## What I Don't Use
 - login / display manager (only startx)
+  
+## Screenshots
+<img src="https://imgur.com/qu50DJ1.png" width=700>
+<img src="https://i.imgur.com/JNFyD9S.png" width=700>
    
 ----
 
