@@ -9,7 +9,7 @@
 <img align="right" width="60%" src="./rofi_screenshot.png"> 
 
 
-# What I Use
+## What I Use
 - [polybar](https://github.com/polybar/polybar/) (System Bar)
 - [rofi](https://github.com/davatorium/rofi) (Program Launcher)
 - [alacritty](https://github.com/alacritty/alacritty) (Terminal)
