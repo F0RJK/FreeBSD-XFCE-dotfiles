@@ -34,6 +34,6 @@ pfetch cava cowsay starfetch cbonsai tty-clock \
 <img src="https://i.imgur.com/JNFyD9S.png" width=700>
    
 
-## Special thanks
+## Special Thanks
 - [caledumb](https://github.com/calesdumb/dotfiles) *dotfiles*
 - [sinomor](https://github.com/Sinomor/dots) *readme.md*
