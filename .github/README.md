@@ -23,7 +23,7 @@
 ```sh
 alacritty zsh nerd-fonts noto polybar sysutils/py-ranger rofi dunst \
 htop gdu firefox pulseaudio \
-pfetch cava cowsay starfetch cbonsai tty-clock
+pfetch cava cowsay starfetch cbonsai tty-clock \
 ```
 
 </details>
