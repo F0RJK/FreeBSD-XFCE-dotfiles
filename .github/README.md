@@ -35,4 +35,4 @@ htop gdu cbonsai tty-clock cowsay starfetch firefox pulseaudio \
 
 ## Made possible with the help of 
 - [caledumb's](https://github.com/calesdumb/dotfiles) dotfiles
-- [sinimor's](https://github.com/Sinomor) readme.md
+- [sinimor's](https://github.com/Sinomor/dots) readme.md
