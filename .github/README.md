@@ -1,5 +1,7 @@
-# Hello there!
 ![Desktop Screenshot](freebsd_screenshot.png)
+---
+![Arch Desktop Screenshot](arch_screenshot.png)
+---
 
 <!-- 
 <img align="right" width="50%" src="./arch_screenshot.png">
