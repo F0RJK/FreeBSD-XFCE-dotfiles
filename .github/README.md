@@ -30,8 +30,9 @@ pfetch cava cowsay starfetch cbonsai tty-clock \
 
 
 ## Screenshots
-<img src="https://imgur.com/qu50DJ1.png" width=700>
-<img src="https://i.imgur.com/JNFyD9S.png" width=700>
+<!-- <img src="https://imgur.com/qu50DJ1.png" width=700>
+<img src="https://i.imgur.com/JNFyD9S.png" width=700> -->
+<img src="https://i.imgur.com/llYcl0y.png" width=700>
 
 ## Special Thanks
 - [calesdumb](https://github.com/calesdumb/dotfiles) *dotfiles*
