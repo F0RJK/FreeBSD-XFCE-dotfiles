@@ -32,7 +32,8 @@ pfetch cava cowsay starfetch cbonsai tty-clock \
 ## Screenshots
 <!-- <img src="https://imgur.com/qu50DJ1.png" width=700>
 <img src="https://i.imgur.com/JNFyD9S.png" width=700> -->
-<img src="https://i.imgur.com/llYcl0y.png" width=700>
+<img src="https://i.imgur.com/llYcl0y.png">
+
 
 > <picture>
 >   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/note.svg">
@@ -41,6 +42,7 @@ pfetch cava cowsay starfetch cbonsai tty-clock \
 >
 > You will have to tweak the files to achieve the same look. 
 <br>
+
 
 ## Special Thanks
 - [calesdumb](https://github.com/calesdumb/dotfiles) *dotfiles*
