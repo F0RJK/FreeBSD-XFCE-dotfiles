@@ -11,9 +11,8 @@
 - Font: [JetBrainsMono Nerd Font](https://www.nerdfonts.com/) 
 - Visualizer: [Cava](https://github.com/karlstav/cava)
 
+
 <br>
-
-
 <details>
 <summary><b>Install dependencies & packages</b></summary>
 <br>
@@ -28,12 +27,22 @@ pfetch cava cowsay starfetch cbonsai tty-clock \
 
 </details>
 <br>
-  
+
+
 ## Screenshots
 <img src="https://imgur.com/qu50DJ1.png" width=700>
 <img src="https://i.imgur.com/JNFyD9S.png" width=700>
-   
 
 ## Special Thanks
 - [calesdumb](https://github.com/calesdumb/dotfiles) *dotfiles*
 - [sinomor](https://github.com/Sinomor/dots) *readme.md*
+
+
+<h1> <!--
+  <a href="#--------">
+    <img alt="" align="left" src="https://img.shields.io/github/stars/f0rjk/dotfiles?color=f1cf8a&labelColor=f1cf8a&style=for-the-badge"/>
+  </a> -->
+  <a href="#--------">
+    <img alt="" align="right" src="https://api.visitorbadge.io/api/visitors?path=f0rjk%2Fdotfiles&label=Views&labelColor=%2386aaec&countColor=%2386aaec" />
+  </a>
+</h1>
