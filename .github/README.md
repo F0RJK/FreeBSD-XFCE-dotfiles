@@ -34,6 +34,14 @@ pfetch cava cowsay starfetch cbonsai tty-clock \
 <img src="https://i.imgur.com/JNFyD9S.png" width=700> -->
 <img src="https://i.imgur.com/llYcl0y.png" width=700>
 
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/note.svg">
+>   <img alt="Note" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/note.svg">
+> </picture><br>
+>
+> You will have to tweak the files to achieve the same look. 
+<br>
+
 ## Special Thanks
 - [calesdumb](https://github.com/calesdumb/dotfiles) *dotfiles*
 - [sinomor](https://github.com/Sinomor/dots) *readme.md*
