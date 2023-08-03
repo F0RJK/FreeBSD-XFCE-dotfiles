@@ -20,7 +20,7 @@
 > Some dependencies / packages (not all)
 
 ```sh
-alacritty zsh nerd-fonts noto polybar sysutils/py-ranger rofi dunst \
+alacritty zsh nerd-fonts noto polybar ranger rofi dunst \
 htop gdu firefox pulseaudio \
 pfetch cava cowsay starfetch cbonsai tty-clock \
 ```
