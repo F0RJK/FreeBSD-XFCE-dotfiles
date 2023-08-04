@@ -1,8 +1,3 @@
-<!--
-<img align="right" width="60%" src="./freebsd_screenshot.png">
-<img align="right" width="60%" src="./rofi_screenshot.png"> 
--->
-
 - Panel: [Polybar](https://github.com/polybar/polybar)
 - Launcher: [Rofi](https://github.com/davatorium/rofi)
 - Notify Daemon: [Dunst](https://github.com/dunst-project/dunst)
@@ -14,15 +9,14 @@
 
 <br>
 <details>
-<summary><b>Install dependencies & packages</b></summary>
+<summary><b>Install dependencies</b></summary>
 <br>
 
-> Some dependencies / packages (not all)
+> Some dependencies (not all)
 
 ```sh
-alacritty zsh nerd-fonts noto polybar ranger rofi dunst \
-htop gdu pulseaudio \
-pfetch cowsay starfetch cbonsai tty-clock
+alacritty cava polybar rofi picom dunst fontconfig Thunar ranger gdu htop \
+freecolor pulseaudio nerd-fonts 
 ```
 
 </details>
