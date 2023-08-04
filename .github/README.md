@@ -21,8 +21,8 @@
 
 ```sh
 alacritty zsh nerd-fonts noto polybar ranger rofi dunst \
-htop gdu firefox pulseaudio \
-pfetch cava cowsay starfetch cbonsai tty-clock \
+htop gdu pulseaudio \
+pfetch cowsay starfetch cbonsai tty-clock
 ```
 
 </details>
