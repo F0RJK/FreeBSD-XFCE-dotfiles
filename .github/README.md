@@ -15,7 +15,7 @@
 > Some dependencies (not all)
 
 ```sh
-alacritty cava polybar rofi picom dunst fontconfig Thunar ranger gdu htop \
+alacritty zsh cava polybar rofi picom dunst fontconfig Thunar ranger gdu htop \
 freecolor pulseaudio nerd-fonts 
 ```
 
@@ -34,7 +34,7 @@ freecolor pulseaudio nerd-fonts
 >   <img alt="Note" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/note.svg">
 > </picture><br>
 >
-> You will have to tweak the files to achieve the same look. 
+> You might have to tweak the files to achieve the same look. 
 <br>
 
 
