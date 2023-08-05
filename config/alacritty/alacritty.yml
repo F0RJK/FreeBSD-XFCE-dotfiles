@@ -7,7 +7,7 @@
 ## Terminal Window Settings
 window:
   dimensions:
-    columns: 130
+    columns: 120
     lines: 28
 
   padding:
@@ -27,7 +27,7 @@ window:
   multiplier: 3
 
   ## Background Opacity
-  opacity: 0.7
+  opacity: 1
 
 
 ## Cursor
@@ -44,10 +44,17 @@ live_config_reload: true
 
 
 ## Shell
+
+# -- FreeBSD --
+# shell:
+#   program: /usr/local/bin/zsh
+#   args:
+#     - --login
+
+# -- Arch --
 shell:
-  program: /usr/local/bin/zsh
-  args:
-    - --login
+  program: /usr/bin/zsh
+
 
 ## Fonts
 font:
