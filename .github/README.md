@@ -26,7 +26,7 @@ freecolor pulseaudio nerd-fonts
 ## Screenshots
 <img src="https://imgur.com/qu50DJ1.png" width=700>
 <img src="https://i.imgur.com/JNFyD9S.png" width=700>
-<img src="https://i.imgur.com/llYcl0y.png">
+<img src="https://i.imgur.com/llYcl0y.png" width=700>
 
 
 > <picture>
